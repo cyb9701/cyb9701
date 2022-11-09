@@ -1,8 +1,8 @@
-## Choi Yoo Bin  
+## 🫥 Choi Yoo Bin  
 <a href="https://velog.io/@cyb9701" target="vlog"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">  
 <img src="https://img.shields.io/badge/cyb9701@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   
-## Tech Stack  
+## 🖥 Tech Stack  
 **Platforms & Languages**  
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
