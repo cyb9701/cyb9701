@@ -1,5 +1,5 @@
 ## 🫥 Choi Yoo Bin  
-<a href="https://velog.io/@cyb9701" target="vlog"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">  
+<a href="https://velog.io/@cyb9701" target="vlog"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">  
 <img src="https://img.shields.io/badge/cyb9701@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   
 ## 🖥 Tech Stack  
