@@ -7,12 +7,12 @@
 ### Work  
 Name|Period|Department|
 |---|---|---|
-|[Billyo Co., Ltd](https://www.billyo.co.kr)|2020.08 -|Mobile App Development|
+|[Billyo Co., Ltd](https://www.billyo.co.kr)|2020. 08 -|Mobile App Development|
   
 ### Project  
 Name|Period|Description|Market|
 |---|---|---|---|
-|아이디 메모|2020.04-2020.05|Notepad that encrypts and stores your ID and password.|https://play.google.com/store/apps/details?id=com.choiyoobin.flutteridmemo| 
+|아이디 메모|2020. 04-2020. 05|Notepad that encrypts and stores your ID and password.|https://play.google.com/store/apps/details?id=com.choiyoobin.flutteridmemo| 
 <br/>
   
 ## 🖥 Tech Stack  
