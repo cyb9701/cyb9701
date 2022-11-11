@@ -4,7 +4,11 @@
   
   
 ## 📝 Career  
-### Platforms & Languages  
+### Work  
+  
+Name|Period|Department|
+|---|---|---|
+|[Billyo Co., Ltd](https://www.billyo.co.kr)|2020.08 -|Mobile App Development|
   
 ### Project  
   
