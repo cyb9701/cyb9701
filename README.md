@@ -23,7 +23,7 @@ Name|Period|Description|Market|
 ### Tools  
 
 <img src="https://img.shields.io/badge/App Store-0D96F6?style=flat-square&logo=App Store&logoColor=white"> <img src="https://img.shields.io/badge/Google Play-414141?style=flat-square&logo=Google Play&logoColor=white">  
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">  
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white">   
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=Codemagic&logoColor=white"> <img src="https://img.shields.io/badge/Cloudsmith-187EB6?style=flat-square&logo=Cloudsmith&logoColor=white">  
 <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white">  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white">  
