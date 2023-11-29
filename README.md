@@ -20,7 +20,7 @@
 
 - 2020.04 ~ 2020.05
 - 사이드 프로젝트
-- Notepad that encrypts and stores your ID and password
+- ID와 비밀번호를 암호화하여 저장하는 메모장
 - https://play.google.com/store/apps/details?id=com.choiyoobin.flutteridmemo
 
 #### 빌리오 Billyo
