@@ -1,7 +1,8 @@
 ## 🫥 최유빈
 
-<a href="https://velog.io/@cyb9701" target="vlog"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">  
-<a href="www.linkedin.com/in/cyb0000" target="linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white">  
+<a href="https://velog.io/@cyb9701" target="vlog" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">  
+<a href="https://www.linkedin.com/in/cyb0000" target="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white">  
+
 
 <br/>
 
