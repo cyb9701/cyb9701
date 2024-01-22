@@ -23,11 +23,11 @@
 
 #### 아이디 메모
 
-- 2020.04 ~ 2020.05
+- 기간: 2020.04 ~ 2020.05
 - 기여도: 100%
-- Flutter
-- 사이드 프로젝트
-- ID와 비밀번호를 암호화하여 저장하는 메모장
+- 기술: Flutter, Firebase
+- 유형: 사이드 프로젝트
+- 설명: ID와 비밀번호를 암호화하여 저장하는 메모장
 - https://play.google.com/store/apps/details?id=com.choiyoobin.flutteridmemo
 
 <br/>
