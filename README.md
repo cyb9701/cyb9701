@@ -1,35 +1,57 @@
-## 🫥 최유빈
+# 최유빈 (Yubin Choi)
 
-<a href="https://velog.io/@cyb9701" target="vlog" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">  
-<a href="https://www.linkedin.com/in/cyb0000" target="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white">  
+5년 차 Flutter 개발자, 지금은 **황금거위** 앱과 서버를 만들고 있습니다.
 
+"어떻게 짤까"보다 "어떤 문제를 풀까"를 먼저 생각합니다.  
+AI Agent를 페어 파트너로 두고, 변화의 시점에 맞는 프로덕트 개발을 추구합니다.
 
-<br/>
-
-## 🛠️ 기술
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">  
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+<a href="https://www.linkedin.com/in/yubin-choi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+<a href="https://velog.io/@cyb9701" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
 <br/>
 
-## 📝 경력
+## 🚀 Now
 
-#### [주식회사 빌리오](https://www.billyo.co.kr)
-- Flutter 개발자 | 2020.08 ~  
-
-<br/>
-
-## ⚙️ 프로젝트
-
-#### 아이디 메모
-
-- 기간: 2020.04 ~ 2020.05
-- 기여도: 100%
-- 기술: Flutter, Firebase
-- 유형: 사이드 프로젝트
-- 설명: ID와 비밀번호를 암호화하여 저장하는 메모장
-- https://play.google.com/store/apps/details?id=com.choiyoobin.flutteridmemo
+**지티미디어** · 프로덕트 개발자 (2026.01 ~ )  
+앱테크 서비스 **황금거위** 앱과 서버를 개발하고 있습니다.
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb9701&layout=compact)
+## 💼 Career
+
+| 기간 | 회사 | 역할 | 작업 |
+|------|------|------|------|
+| 2026.01 ~ 현재 | 지티미디어 | 프로덕트 개발자 | 황금거위 앱·서버 |
+| 2020.08 ~ 2025.05 | [주식회사 빌리오](https://www.billyo.co.kr) | Flutter 개발자 | 빌리오 앱 |
+
+<br/>
+
+## 🛠 Tech
+
+**Mobile** — Flutter, Dart  
+**Web** — React, TypeScript  
+**Backend** — Supabase, Deno.js  
+**Tooling** — Claude Code, Git, GitHub Actions
+
+<br/>
+
+## ✍️ Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[더 보기 → Velog](https://velog.io/@cyb9701/posts)
+
+<br/>
+
+## 📊 Stats
+
+![Yubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyb9701&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb9701&layout=compact&hide_border=true)
+
+<br/>
+
+## 📬 Contact
+
+- LinkedIn: [yubin-choi](https://www.linkedin.com/in/yubin-choi/)
+- Velog: [@cyb9701](https://velog.io/@cyb9701)
