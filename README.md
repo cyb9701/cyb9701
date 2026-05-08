@@ -49,13 +49,6 @@ AI Agent를 페어 파트너로 두고, 변화의 시점에 맞는 프로덕트 
 
 <br/>
 
-## 📊 Stats
-
-![Yubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyb9701&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb9701&layout=compact&hide_border=true)
-
-<br/>
-
 ## 📬 Contact
 
 - LinkedIn: [yubin-choi](https://www.linkedin.com/in/yubin-choi/)
