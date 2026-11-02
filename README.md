@@ -31,7 +31,7 @@ AI Agent를 페어 파트너로 두고, 변화의 시점에 맞는 프로덕트�
 포켓몬 카드 오리파와 TCG 리팩을 온라인으로 제공하는 서비스입니다.  
 획득한 카드는 실물로 받거나 포인트로 전환합니다. 2026년 9월에 앱을 출시했습니다.
 
-[App Store](https://apps.apple.com/kr/app/id6807088276) · [Google Play](https://play.google.com/store/apps/details?id=kr.gtmedia.pikauniverse)
+[웹사이트](https://www.pikauniverse.com) · [App Store](https://apps.apple.com/kr/app/id6807088276) · [Google Play](https://play.google.com/store/apps/details?id=kr.gtmedia.pikauniverse)
 
 | 영역 | 구성 | 기술 |
 |------|------|------|
