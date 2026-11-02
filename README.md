@@ -1,9 +1,9 @@
 # 최유빈 (Yubin Choi)
 
-**앱, 서버, 웹을 함께 만드는 프로덕트 개발자**
+**지티미디어 대표 · 프로덕트 개발자**
 
 "어떻게 짤까"보다 "어떤 문제를 풀까"를 먼저 생각합니다.  
-2020년부터 Flutter로 앱을 만들었고, 지금은 제품 전체를 개발합니다.  
+2020년부터 Flutter로 앱을 만들었고, 지금은 기획과 디자인부터 앱, 서버, 웹 개발까지 맡고 있습니다.  
 AI Agent를 페어 파트너로 두고, 변화의 시점에 맞는 프로덕트를 만듭니다.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yubin-choi/)
@@ -13,23 +13,11 @@ AI Agent를 페어 파트너로 두고, 변화의 시점에 맞는 프로덕트�
 
 지티미디어에서 서비스 두 개를 개발하고 있습니다.
 
-### [황금거위](https://www.goldgoose.kr)
-
-광고를 보고 캐시를 모아 현금으로 전환하는 리워드 앱입니다.  
-2026년 1월에 출시했고, 앱과 서버와 웹 개발을 맡고 있습니다.
-
-[App Store](https://apps.apple.com/kr/app/id6756346292) · [Google Play](https://play.google.com/store/apps/details?id=kr.gtmedia.goldengoose)
-
-| 영역 | 구성 | 기술 |
-|------|------|------|
-| 앱 | iOS, Android | Flutter, Riverpod |
-| 서버 | 데이터베이스, Edge Functions | Supabase, PostgreSQL, Deno |
-| 웹 | 홈페이지, 웹뷰, 관리자 페이지 | React, TypeScript, Vite |
-
 ### [피카 유니버스](https://www.pikauniverse.com)
 
 포켓몬 카드 오리파와 TCG 리팩을 온라인으로 제공하는 서비스입니다.  
-획득한 카드는 실물로 받거나 포인트로 전환합니다. 2026년 9월에 앱을 출시했습니다.
+획득한 카드는 실물로 받거나 포인트로 전환합니다. 2026년 9월에 앱을 출시했습니다.  
+지티미디어가 운영하고, 기획, 디자인, 개발을 모두 맡고 있습니다.
 
 [웹사이트](https://www.pikauniverse.com) · [App Store](https://apps.apple.com/kr/app/id6807088276) · [Google Play](https://play.google.com/store/apps/details?id=kr.gtmedia.pikauniverse)
 
@@ -38,6 +26,23 @@ AI Agent를 페어 파트너로 두고, 변화의 시점에 맞는 프로덕트�
 | 앱 | iOS, Android | Expo, React Native |
 | 서버 | 데이터베이스, 백엔드 함수 | Convex |
 | 웹 | 사용자 웹, 관리자 페이지 | Next.js, React, TypeScript |
+
+### [황금거위](https://www.goldgoose.kr)
+
+광고를 보고 캐시를 모아 현금으로 전환하는 리워드 앱입니다. 2026년 1월에 출시했습니다.
+
+> [!IMPORTANT]
+> **스칼라데이터에 양도한 서비스입니다.**  
+> 지티미디어에서 기획하고 개발한 뒤 스칼라데이터에 양도했습니다.  
+> 지금은 스칼라데이터의 앱이고, 지티미디어가 개발을 이어서 맡고 있습니다.
+
+[App Store](https://apps.apple.com/kr/app/id6756346292) · [Google Play](https://play.google.com/store/apps/details?id=kr.gtmedia.goldengoose)
+
+| 영역 | 구성 | 기술 |
+|------|------|------|
+| 앱 | iOS, Android | Flutter, Riverpod |
+| 서버 | 데이터베이스, Edge Functions | Supabase, PostgreSQL, Deno |
+| 웹 | 홈페이지, 웹뷰, 관리자 페이지 | React, TypeScript, Vite |
 
 ## 직접 만든 도구
 
@@ -70,7 +75,7 @@ Claude Code용 개인 플러그인 마켓플레이스입니다. 마켓플레이�
 
 | 기간 | 회사 | 역할 | 주요 작업 |
 |------|------|------|------|
-| 2026.01 ~ 현재 | 지티미디어 | 프로덕트 개발자 | 황금거위, 피카 유니버스 |
+| 2026.01 ~ 현재 | 지티미디어 | 대표, 프로덕트 개발자 | 피카 유니버스 운영, 황금거위 개발과 스칼라데이터 양도 |
 | 2020.08 ~ 2025.05 | 주식회사 빌리오 | Flutter 개발자 | 빌리오 앱 |
 
 ## 기술
